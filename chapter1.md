@@ -1,3 +1,5 @@
+# Introduction
+
 Pointers provide power and flexibility
 
     - Used to dynamically manipulate '''memory'''
@@ -19,8 +21,8 @@ Use of pointers and how memory is managed
 
     - Support for dynamic memory allocation
     - Closely tied to array notation
-    - When used to point to functions, they add another dimension to flow
-control in a program
+    - When used to point to functions, they add another dimension to flow 
+    control in a program
 
 Pointer is a variable that stores the address of a memory location
 
